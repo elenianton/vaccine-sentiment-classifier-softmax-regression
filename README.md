@@ -25,6 +25,6 @@ Scores for test set:
            2       0.67      0.82      0.74       921
        label       0.00      0.00      0.00         1
 
-    accuracy                           0.74      2283
-   macro avg       0.55      0.49      0.51      2283
-weighted avg       0.74      0.74      0.73      2283
+       accuracy                        0.74      2283
+       macro avg   0.55      0.49      0.51      2283
+       weighted    0.74      0.74      0.73      2283
