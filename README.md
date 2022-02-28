@@ -16,6 +16,8 @@ Scores for test set:
  0.7367498904949628
  
  - Classification Report:
+
+
                precision    recall  f1-score   support
 
            0       0.81      0.76      0.79      1065
